@@ -4,7 +4,7 @@ Take your REST APIs to a whole new level with this advanced Flask and Python cou
 
 ### Certifications
 
-- [Certificate](https://nlb.udemy.com/certificate/UC-944952d4-249a-47f2-96ff-634a8f56b4cf/)
+- [Certificate](https://udemy.com/certificate/UC-944952d4-249a-47f2-96ff-634a8f56b4cf/)
 
 ### Awknowledgements
 
